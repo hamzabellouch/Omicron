@@ -6,11 +6,10 @@ The following versions of Omicron are currently supported with security and stab
 
 | Version       | Supported          |
 | -------------- | ------------------ |
-| 0.2.1-beta     | :white_check_mark: |
-| + 0.2.0-beta   | :white_check_mark: |
-| < 0.2.0-beta   | :x:                |
+| + 0.3.0-beta   | :white_check_mark: |
+| < 0.3.0-beta   | :x:                |
 
----
+
 
 ## Reporting a Vulnerability
 
@@ -43,7 +42,7 @@ If the issue is confirmed:
 
 If the report is invalid, incomplete, or not reproducible, it may be closed without action.
 
----
+
 
 ## Security Notes
 

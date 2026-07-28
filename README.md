@@ -10,7 +10,7 @@ Modern Android Media Downloader powered by `yt-dlp` & `gallery-dl`
   <img src="https://github.com/hamzabellouch/omicron/blob/68cf29c17e1849e20f02d4f7871923bac25cf842/Images/Omicron.png" alt="Omicron" width="800"/>
 </div>
 
-### <a name="About"></a> 📖 About
+## Overview
 
 **Omicron** is a powerful, user-friendly, and beautifully designed media downloader for Android.  
 Powered by `yt-dlp` and `gallery-dl`, it allows users to download videos, audio files, and entire playlists from hundreds of supported platforms while offering complete control over subtitles, metadata, and custom commands.
@@ -19,7 +19,7 @@ Omicron is built using modern Android technologies and follows the principles of
 
 The application focuses on simplicity, speed, and flexibility, making it suitable for both casual users and advanced users who need full control over media downloading workflows.
 
-### <a name="Screenshots"></a> 📸 Screenshots
+## Screenshots
 
 Omicron UI & Features :
 
@@ -44,7 +44,7 @@ Omicron UI & Features :
 
 <br>
 
-### <a name="Features"></a> ⭐ Features - Supported +1000 platform
+## ⭐ Features - Supported +1000 platform
 
 Examples of popular platforms :
 
@@ -75,7 +75,7 @@ Omicron follows modern Android architecture principles for better maintainabilit
   - `FFmpeg` (Post-processing & muxing)
 * `Coil` (Image Loading)
 
-### <a name="Installation"></a> 🔥 Installation
+## 🔥 Installation
 
 1. Go to the Releases page:
    https://github.com/hamzabellouch/omicron/releases
@@ -86,7 +86,7 @@ Omicron follows modern Android architecture principles for better maintainabilit
 
 4. Make sure that: `Install from unknown sources` is enabled in your Android settings.
 
-### <a name="Build"></a> 🔨 Building from Source - Not available yet
+## 🔨 Building from Source - Not available yet
 
 
 >To build Omicron locally, make sure you have the latest version of Android Studio installed.

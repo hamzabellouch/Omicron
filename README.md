@@ -1,10 +1,8 @@
-</p>
-<h1 align="center">Omicron</h1>
+# Omicron
+<h3 align="center">One Link. Infinite Media. Maximum Speed.</h3>
 <p align="center">
-
+An open-source Android media downloader built with Jetpack Compose, powered by yt-dlp, FFmpeg, gallery-dl, and Aria2c.
 </p>
-
-Modern Android Media Downloader powered by `yt-dlp` & `gallery-dl`
 
 <div align="center">
   <img src="https://github.com/hamzabellouch/omicron/blob/68cf29c17e1849e20f02d4f7871923bac25cf842/Images/Omicron.png" alt="Omicron" width="800"/>

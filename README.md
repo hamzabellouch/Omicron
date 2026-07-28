@@ -7,7 +7,7 @@
 Modern Android Media Downloader powered by `yt-dlp` & `gallery-dl`
 
 <div align="center">
-  <img src="https://github.com/hamzabellouch/omicron/blob/68cf29c17e1849e20f02d4f7871923bac25cf842/Images/Omicron.png" width="800"/>
+  <img src="https://github.com/hamzabellouch/omicron/blob/68cf29c17e1849e20f02d4f7871923bac25cf842/Images/Omicron.png" alt="Omicron" width="800"/>
 </div>
 
 ### <a name="About"></a> 📖 About
